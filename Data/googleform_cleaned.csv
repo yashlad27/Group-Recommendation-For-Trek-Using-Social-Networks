@@ -7,12 +7,12 @@ Height (in cm),Weight (in kg),Age,Gender,City,Locality,Languages (Separated by s
 182,54,20,male,pune,kothrud,hindi  english ,mit-wpu,student ,yes,saturday;sunday,2,devkund_arai hills ,intermediate,non-veg
 184,63,17,male,pune,chinchwad ,hindi  english ,mit wpu,student ,yes,friday;saturday;sunday,2,nan,intermediate,non-veg
 161,63,22,male,pune,rambaug colony ,marathi  hindi  english ,"mit wpu, pune ",student ,yes,monday;tuesday;wednesday;thursday;friday;saturday;sunday,1,tikona,easy,veg
-180,836,18,male,pune,khadakwasla,hindi,mit wpu,student,no,sunday,0,nan,easy,non-veg
+180,83,18,male,pune,khadakwasla,hindi,mit wpu,student,no,sunday,0,nan,easy,non-veg
 174,45,18,male,pune,nan,hindi english,mit-wpu,student ,yes,sunday,0,nan,intermediate,non-veg
 160,57,20,female,pune,sinhgad rd,eng hindi marathi,ssdps,student ,yes,saturday;sunday,10,sinhgad etc,intermediate,veg
 183,83,18,male,pune,kothrud,english hindi marathi,mit wpu,student,yes,monday;tuesday;wednesday;thursday;friday;saturday;sunday,1,kalsubai(nashik),intermediate,veg
-174,74,20,male,pune ,kothrud ,hindi english,mit,student,yes,monday;tuesday;wednesday;thursday;friday;saturday;sunday,45,nan,easy,veg
-157,52,19,female,pune,kothrud,gujarati  hindi  english ,mit-wpu,student ,yes,saturday;sunday,45,nan,intermediate,veg
+174,74,20,male,pune ,kothrud ,hindi english,mit,student,yes,monday;tuesday;wednesday;thursday;friday;saturday;sunday,4,nan,easy,veg
+157,52,19,female,pune,kothrud,gujarati  hindi  english ,mit-wpu,student ,yes,saturday;sunday,4,nan,intermediate,veg
 184,80,20,male,pune,vimannagar,english hindi marathi,mit wpu pune,student,yes,monday;tuesday;wednesday;thursday;friday;saturday;sunday,3,kang yatse-2 expedition_pangarchulla peak_chopta chandrashila,hard,veg
 175,75,20,male,pune,kothrud,hindi,mit wpu,no,no,monday;tuesday;wednesday;thursday;friday;saturday;sunday,0,nan,hard,veg
 145,60,46,female,pune ,chinchwad ,marathi  hindi  english ,"carc, akurdi ",doctor ,yes,saturday;sunday,20,torna _tikona_harishchandragad_k2s_rajgad_raygad_andharban_hamptapass himalayan trek... etc ,intermediate,veg
@@ -34,10 +34,10 @@ bakra pass
 163,58,19,male,pune,kothrud,marathi ,mit wpu,student,yes,saturday;sunday,nan,nan,hard,non-veg
 180,90,18,male,pune,kothrud ,marathi  hindi gujurati,mit-world peace university pune ,student ,yes;no,sunday,0,nan,easy,veg
 170,74,17,male,pune,viman nagar,gujarati hindi english,lexicon international school,student ,no,saturday;sunday,0,nan,intermediate,veg
-162,636,19,female,pune,bibewadi,english hindi marathi french german marwadi,mit wpu,student ,yes,friday;saturday;sunday,1015,nan,intermediate,veg
+162,63,19,female,pune,bibewadi,english hindi marathi french german marwadi,mit wpu,student ,yes,friday;saturday;sunday,10,nan,intermediate,veg
 173,61,18,male,pune,pimpri chinchwad ,hindi  marathi  english ,mit wpu engineering college ,student,yes,monday;tuesday;wednesday;thursday;friday;saturday;sunday,2,rajgad fort_ shinhagad fort,hard,vegan
-18034,69,18,male,pune,nan,english  marathi  hindi,mitwpu,student,yes,friday;saturday,8,raigad_sinhagad_shivneri_lohagad,intermediate,non-veg
-149,60,20,female,pune,pcmc,hindi,mit kothrud ,na,yes,saturday;sunday,1015,devkund_ sinhagad _ visapur_ tikona _raigad,intermediate,veg
+180,69,18,male,pune,nan,english  marathi  hindi,mitwpu,student,yes,friday;saturday,8,raigad_sinhagad_shivneri_lohagad,intermediate,non-veg
+149,60,20,female,pune,pcmc,hindi,mit kothrud ,na,yes,saturday;sunday,10,devkund_ sinhagad _ visapur_ tikona _raigad,intermediate,veg
 170,79,17,male, pune ,kothrud ,english  hindi ,mit wpu ,btech cse ,no,thursday;friday;saturday,0,nan,intermediate,veg
 183,74,18,male,aurangabad ,maharashtrian,english  hindi  marathi,mitwpu,student,yes,saturday;sunday,7,"_malshej
 _uttarakhand (viratkhai)
@@ -57,37 +57,37 @@ kalu waterfall
 kedarkantha (uttarakhand)
 sinhagad fort
 ",intermediate,non-veg
-178,75,18,male,pune,balewadi high street,english hindi telugu,mit wpu,student,yes,saturday;sunday,45,switzerland scotland sinhaghad manali,hard,non-veg
+178,75,18,male,pune,balewadi high street,english hindi telugu,mit wpu,student,yes,saturday;sunday,4,switzerland scotland sinhaghad manali,hard,non-veg
 117,78,18,male,pune,mit campus ,english gujrati marathi hindi ,st. xavier's high school airoli ,cyber security first year,yes,saturday;sunday,50,parsik hills_sahyadri hills_etc,easy,veg
 58,78,18,male,pune,jaipur,english hindi,mit wpu,student,yes,saturday;sunday,4,massorie manali n rishi kesh,intermediate,non-veg
 180,71,19,male,pune ,kothrod ,marathi  hindi  english ,mit wpu ,student,no,saturday,0,nan,intermediate,non-veg
 160,58,18,female,pune,nan,english,mit wpu sy electronics and communication engineering,student,yes,saturday;sunday,3,nan,intermediate,veg
 195,80,20,male,west lafayette,nan,english hindi gujrati marathi,purdue university ,student ,yes,saturday;sunday,3,karnala_mt.rainier_sanjaygandhinationalpark,easy,veg
-1554,79,20,male,pune,kothrud ,hindi  english ,mit-wpu ,student ,yes,saturday;sunday,2,nan,intermediate,non-veg
+155,79,20,male,pune,kothrud ,hindi  english ,mit-wpu ,student ,yes,saturday;sunday,2,nan,intermediate,non-veg
 165,42,18,female,pune,"kothrud, pune",marathi  hindi  english  japanese ,mitwpu kothrud ,b.tech cse sy student ,no,saturday;sunday,0,nan,intermediate,veg
 163,66,19,male,pune,nan,english marathi hindi ,mit wpu school of engineering ,student ,no,saturday;sunday,0,nan,intermediate,veg
-182,84,18,male,pune,ghorpadi ,english hindi,mit school of management ,student,yes,sunday,56,"andharban jungle trek _ sinhagad trek _ torna fort _ devkund waterfalls _ tulian lake,kashmir _ ",intermediate,veg
+182,84,18,male,pune,ghorpadi ,english hindi,mit school of management ,student,yes,sunday,5,"andharban jungle trek _ sinhagad trek _ torna fort _ devkund waterfalls _ tulian lake,kashmir _ ",intermediate,veg
 177,75,20,male,mumbai,suburban,english hindi marathi,kj somaiya college of engineering,student,no,saturday;sunday,0,nan,intermediate,veg
 170,51,19,male,pune,vishal nagar,english  hindi  marathi,international institute of information technology,student,no,saturday;sunday,0,nan,intermediate,non-veg
-170,55,19,male,pune,kothrud ,marathi,mit wpu,student ,yes,saturday;sunday,1012,nan,intermediate,non-veg
+170,55,19,male,pune,kothrud ,marathi,mit wpu,student ,yes,saturday;sunday,10,nan,intermediate,non-veg
 170,64,19,male,pune,pcmc ,english hindi marathi ,dav public school ,student ,yes,saturday;sunday,nan,-,easy,non-veg
 152,75,18,female,pune,amanora,hindi  english ,mit wpu,student,no,saturday;sunday,0,nan,intermediate,non-veg
 152,60,18,female,pune,hadapsar,english marathi hindi,mit school of engineering,student,yes,saturday;sunday,4,sinhagad kanifnath raigad,intermediate,non-veg
 190,80,17,male,pune,kurveynagar,hindi gujrati english rajasthani,mit wpu,student,no,monday;tuesday;wednesday;thursday;friday;sunday,0,nan,intermediate,veg
 180,85,18,male,surat/pune,althan/karve nagar,hindi  english,"mit wpu , pune",student,yes,saturday;sunday,2,"orsang , devs camp",intermediate,veg
 180,61,19,male,pune ,vishal nagar,english hindi marathi ,mimer medical college ,student,yes,sunday,3,nan,intermediate,non-veg
-170,573,18,male,pune,kothrud,hindi english marathi,mit,student,yes,saturday;sunday,810,sinhgad_devkund_korigad_kataldhara_tamhinighat_ajantacaves_ellora_brahmagiri_harihargad_kundalikavallley_daulatabadfort,intermediate,veg
-178,594,19,male,pune,pcmc,english hindi ,mit wpu,student,no,saturday;sunday,0,nan,intermediate,veg
+170,57,18,male,pune,kothrud,hindi english marathi,mit,student,yes,saturday;sunday,8,sinhgad_devkund_korigad_kataldhara_tamhinighat_ajantacaves_ellora_brahmagiri_harihargad_kundalikavallley_daulatabadfort,intermediate,veg
+178,59,19,male,pune,pcmc,english hindi ,mit wpu,student,no,saturday;sunday,0,nan,intermediate,veg
 165,60,19,male,pune,pune,english hindi  marathi ,mit wpu,student ,yes,saturday;sunday,6,"korigad fort, katardhara , sinhgad, ajanta caves, ashirghad ,devkund ",hard,non-veg
 162,71,20,female,sangli ,nan,english    marathi    hindi ,walchand college of engineering ,student,yes,saturday;sunday,15,harishchandragad_aadrai_kalsubai_jivdhan_vasantgad_panhalgad_harintabungyal_etc,intermediate,veg
 172,66,19,male,pune (pcmc),chinchwad ,m a r a t h i,college of engineering ,student,yes,monday;tuesday;wednesday;thursday;friday;saturday;sunday,nan,lohagad_ sinhagad_shivneri_adharban jungle_korigad_visapur_goradeshwar,hard,non-veg
-1737,50,20,female,pune,pashan,english hindi marathi ,college ,student,yes,saturday;sunday,34,nan,intermediate,veg
+173,50,20,female,pune,pashan,english hindi marathi ,college ,student,yes,saturday;sunday,3,nan,intermediate,veg
 192,90,20,male,pune,kothrud,hindi english,mit wpu,student,yes,friday;saturday;sunday,7,nan,intermediate,veg
 168,55,21,male,pune ,vadgaon(bk),english marathi hindi,mit wpu,student,yes,saturday;sunday,0,nan,hard,non-veg
 165,78,45,male,pune,new sangvi ,marathi  hindi  english  modi,tilak vidyalaya ,doctor ,yes,friday;saturday,65,nan,hard,veg
 154,65,48,female,pune,pimple nilakh,marathi   english   hindi ,bharti vidyapeeth medical college ,doctor ,yes,sunday,nan,shivneri- torna- lohgad- hills nearby pune-,easy,veg
 170,80,41,male,pune,wakad,marathi hindi english ,not applicable ,doctor ,yes,thursday;sunday,10,nan,intermediate,veg
-56,70,39,female,pune,jagtap dairy,marathi  hindi  english ,college ,business ,yes,monday;tuesday;wednesday;thursday;friday;saturday;sunday,89,nan,intermediate,non-veg
+56,70,39,female,pune,jagtap dairy,marathi  hindi  english ,college ,business ,yes,monday;tuesday;wednesday;thursday;friday;saturday;sunday,8,nan,intermediate,non-veg
 164,78,47,male,pimpri chinchwad ,pimple nilakh ,english marathi hindi,d y patil medical college,doctor,no,saturday;sunday,nan,nan,easy,veg
 56,70,48,female,thane,chitalsar,hindi english marathi tulu,k j somaiya,homemaker,yes,saturday;sunday,4,yeoor,intermediate,non-veg
 165,53,48,male,thane,thane,english ,ltes,engineer,yes,tuesday,nan,nan,intermediate,veg
@@ -95,28 +95,28 @@ sinhagad fort
 harishchandra gadh_ lohgadh_ sinhgadh_ andharban_ dhakbhairi_ghorawdeshwar",intermediate,veg
 152,83,46,female,pune,chinchwad,english marathi hindi,bvmc,doctor,yes,saturday;sunday,2,nan,easy,non-veg
 160,90,39,male,pune,indrayani nagar ,english marathi hindi bhojpuri ,"bj medical, deenanath mangeshkar hospital ",pediatric,yes,sunday,10,nan,intermediate,veg
-177,83,19,male,pune,kondhwa,marathi  hindi  english,pict,student ,yes,saturday;sunday,67,nan,hard,veg
+177,83,19,male,pune,kondhwa,marathi  hindi  english,pict,student ,yes,saturday;sunday,6,nan,hard,veg
 179,103,20,male,pune,milind society,marathi english hindu ,mit wpu,student ,yes,friday;saturday;sunday,20,banertekdi_arai_ghoradeshwar_sinhagad_taljai_dehuroadhill,intermediate,non-veg
-1798,73,20,male,pune,sinhagad road ,marathi english hindi ,college ,none,yes,monday;tuesday;wednesday;thursday;friday;saturday,6,nan,intermediate,veg
+179,73,20,male,pune,sinhagad road ,marathi english hindi ,college ,none,yes,monday;tuesday;wednesday;thursday;friday;saturday,6,nan,intermediate,veg
 166,63,47,male,pune,baner,english  marathi  hindi,lokmanya tilak english school,information technology,yes,saturday;sunday,25,sinhagad_lohagad_torana,hard,veg
 166,77,47,male,mumbai ,thane,english,ltes,service ,yes,saturday;sunday,50,maharashtra ,intermediate,non-veg
-180,70,21,male,pune,warje,hindi  english  marathi,mit-wpu,student,yes,saturday;sunday,34,"torna, etc",intermediate,veg
+180,70,21,male,pune,warje,hindi  english  marathi,mit-wpu,student,yes,saturday;sunday,3,"torna, etc",intermediate,veg
 178,74,47,male,mumbai,kandivali west,gujarati  english hindi marathi,lokmanya tilak english school,electrical engineer,yes,saturday;sunday,10,nan,intermediate,veg
 153,65,39,female,mumbai,bhayander west,english  hindi marathi,"holy cross english high school ,amravati",no,no,saturday;sunday,nan,nan,nan,veg
 170,74,47,male,mumbai,malad,marathi english hindi ,l.b.s camsar,service,yes,saturday;sunday,nan,nan,intermediate,non-veg
 178,84,59,male,mumbai,sion,hindi english marathi,terna college,service,no,sunday,nan,not applicable ,easy,veg
 56,80,48,male,thrissur,thrissur ,english hindi malayalam marathi ,lokmanya tilak english school chembur mumbai,banker,no,saturday,nan,nan,no idea,non-veg
 157,63,48,female,"taluka: gadhinglaj,, district:kolhapur,",mahagaon ,english ,st helena's school pune,anaesthetist ,yes,saturday,4,4,easy,non-veg
-16154,80,47,female,pune,pashan,hindi english marathi,ncl ,"home maker, natural dyer",no,friday;saturday;sunday,0,nan,easy,veg
+161,80,47,female,pune,pashan,hindi english marathi,ncl ,"home maker, natural dyer",no,friday;saturday;sunday,0,nan,easy,veg
 168,55,20,male,pune,nan,marathi  hindi  english,vit pune,student,yes,saturday;sunday,6,sinhagad_torna_rajgad_visapur_tikona_k2s,hard,non-veg
 161,65,47,female,"guildford, united kingdom ",london,hindi  english,"lokmanya tilak english school, chembur ",neonatal nurse,no,monday,nan,nan,easy,non-veg
 156,70,19,male,thane,pune,hindi ,mit wpu ,student ,yes,saturday;sunday,nan,na,intermediate,non-veg
-16510,625,20,female,jaipur rajasthan ,nan,hindi english ,manipal university jaipur ,student ,no,friday;saturday;sunday,nan,nan,intermediate,veg
+165,62,20,female,jaipur rajasthan ,nan,hindi english ,manipal university jaipur ,student ,no,friday;saturday;sunday,nan,nan,intermediate,veg
 165,73,47,male,mumbai,tilak nagar,english hindi marathi tulu,lokmanya tilak english school,service,no,saturday,0,nan,intermediate,veg
 174,67,48,male,pune,vishalnagar,marathi hindi english,k d high school,doctor,yes,saturday;sunday,4,tikona andharban rajmachi rajgadh,intermediate,veg
 163,57,44,female,pune,"plot no 1, shantiniketan society,pune",english  marathi  hindi ,divine child high school ,doctor ,yes,sunday,2,andharban_ghoradeshwar,easy,veg
 18,90,47,male,mumbai,chembur ,english ,k j somaiya ,it,yes,saturday;sunday,10,"nani ghat,  karnala ",intermediate,non-veg
 155,62,49,female,pune,pcmc ,marathi  hindi  english ,bvmc and bjmc  pune,doctor ,yes,saturday;sunday,5,"dhak bhairi, purandar, lohgad fort, sinhgad fort",easy,veg
-16154,58,47,female,mumbai ,chembur,english marathi hindi,k j somaiya ,banker,no,saturday,0,nan,intermediate,veg
+161,58,47,female,mumbai ,chembur,english marathi hindi,k j somaiya ,banker,no,saturday,0,nan,intermediate,veg
 168,64,20,male,punr,kothrud,hindi marathi english,mit wpu,student,yes,friday;saturday;sunday,1,sinhgad fort,hard,non-veg
 167,79,47,female,pune,wakad,english marathi hindi,nehru english school nanded,doctor,yes,sunday,6,nan,intermediate,veg

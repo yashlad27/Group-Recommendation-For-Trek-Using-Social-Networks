@@ -1,6 +1,6 @@
 [
     {
-        "Height (in cm)": "185",
+        "Height (in cm)": 185,
         "Weight (in kg)": "70",
         "Age": "20",
         "Gender": "male",
@@ -17,7 +17,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "162",
+        "Height (in cm)": 162,
         "Weight (in kg)": "69",
         "Age": "20",
         "Gender": "female",
@@ -34,7 +34,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "158",
+        "Height (in cm)": 158,
         "Weight (in kg)": "60",
         "Age": "19",
         "Gender": "male",
@@ -51,7 +51,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "60",
         "Age": "20",
         "Gender": "male",
@@ -68,7 +68,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "172",
+        "Height (in cm)": 172,
         "Weight (in kg)": "100",
         "Age": "21",
         "Gender": "male",
@@ -85,7 +85,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "182",
+        "Height (in cm)": 182,
         "Weight (in kg)": "54",
         "Age": "20",
         "Gender": "male",
@@ -102,7 +102,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "184",
+        "Height (in cm)": 184,
         "Weight (in kg)": "63",
         "Age": "17",
         "Gender": "male",
@@ -119,7 +119,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "161",
+        "Height (in cm)": 161,
         "Weight (in kg)": "63",
         "Age": "22",
         "Gender": "male",
@@ -136,8 +136,8 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "180",
-        "Weight (in kg)": "836",
+        "Height (in cm)": 180,
+        "Weight (in kg)": "83",
         "Age": "18",
         "Gender": "male",
         "City": "pune",
@@ -153,7 +153,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "174",
+        "Height (in cm)": 174,
         "Weight (in kg)": "45",
         "Age": "18",
         "Gender": "male",
@@ -170,7 +170,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "160",
+        "Height (in cm)": 160,
         "Weight (in kg)": "57",
         "Age": "20",
         "Gender": "female",
@@ -187,7 +187,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "183",
+        "Height (in cm)": 183,
         "Weight (in kg)": "83",
         "Age": "18",
         "Gender": "male",
@@ -204,7 +204,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "174",
+        "Height (in cm)": 174,
         "Weight (in kg)": "74",
         "Age": "20",
         "Gender": "male",
@@ -215,13 +215,13 @@
         "Working Profession": "student",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "monday;tuesday;wednesday;thursday;friday;saturday;sunday",
-        "Number of Previous treks?": "45",
+        "Number of Previous treks?": "4",
         "If yes, List the treks separated by underscore (_)": "nan",
         "Preference of difficulty of trek": "easy",
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "157",
+        "Height (in cm)": 157,
         "Weight (in kg)": "52",
         "Age": "19",
         "Gender": "female",
@@ -232,13 +232,13 @@
         "Working Profession": "student ",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "saturday;sunday",
-        "Number of Previous treks?": "45",
+        "Number of Previous treks?": "4",
         "If yes, List the treks separated by underscore (_)": "nan",
         "Preference of difficulty of trek": "intermediate",
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "184",
+        "Height (in cm)": 184,
         "Weight (in kg)": "80",
         "Age": "20",
         "Gender": "male",
@@ -255,7 +255,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "175",
+        "Height (in cm)": 175,
         "Weight (in kg)": "75",
         "Age": "20",
         "Gender": "male",
@@ -272,7 +272,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "145",
+        "Height (in cm)": 145,
         "Weight (in kg)": "60",
         "Age": "46",
         "Gender": "female",
@@ -289,7 +289,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "167",
+        "Height (in cm)": 167,
         "Weight (in kg)": "53",
         "Age": "19",
         "Gender": "male",
@@ -306,7 +306,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "175",
+        "Height (in cm)": 175,
         "Weight (in kg)": "52",
         "Age": "20",
         "Gender": "male",
@@ -323,7 +323,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "163",
+        "Height (in cm)": 163,
         "Weight (in kg)": "59",
         "Age": "46",
         "Gender": "male",
@@ -340,7 +340,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "176",
+        "Height (in cm)": 176,
         "Weight (in kg)": "67",
         "Age": "23",
         "Gender": "male",
@@ -357,7 +357,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "169",
+        "Height (in cm)": 169,
         "Weight (in kg)": "64",
         "Age": "19",
         "Gender": "male",
@@ -374,7 +374,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "62",
         "Age": "19",
         "Gender": "male",
@@ -391,7 +391,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "60",
         "Age": "20",
         "Gender": "male",
@@ -408,7 +408,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "55",
         "Age": "20",
         "Gender": "male",
@@ -425,7 +425,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "175",
+        "Height (in cm)": 175,
         "Weight (in kg)": "78",
         "Age": "20",
         "Gender": "male",
@@ -442,7 +442,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "165",
+        "Height (in cm)": 165,
         "Weight (in kg)": "85",
         "Age": "46",
         "Gender": "male",
@@ -459,7 +459,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "160",
+        "Height (in cm)": 160,
         "Weight (in kg)": "64",
         "Age": "47",
         "Gender": "male",
@@ -476,7 +476,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "61",
         "Age": "17",
         "Gender": "male",
@@ -493,7 +493,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "166",
+        "Height (in cm)": 166,
         "Weight (in kg)": "62",
         "Age": "18",
         "Gender": "male",
@@ -510,7 +510,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "163",
+        "Height (in cm)": 163,
         "Weight (in kg)": "58",
         "Age": "19",
         "Gender": "male",
@@ -527,7 +527,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "90",
         "Age": "18",
         "Gender": "male",
@@ -544,7 +544,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "74",
         "Age": "17",
         "Gender": "male",
@@ -561,8 +561,8 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "162",
-        "Weight (in kg)": "636",
+        "Height (in cm)": 162,
+        "Weight (in kg)": "63",
         "Age": "19",
         "Gender": "female",
         "City": "pune",
@@ -572,13 +572,13 @@
         "Working Profession": "student ",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "friday;saturday;sunday",
-        "Number of Previous treks?": "1015",
+        "Number of Previous treks?": "10",
         "If yes, List the treks separated by underscore (_)": "nan",
         "Preference of difficulty of trek": "intermediate",
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "173",
+        "Height (in cm)": 173,
         "Weight (in kg)": "61",
         "Age": "18",
         "Gender": "male",
@@ -595,7 +595,7 @@
         "Food Preferences": "vegan"
     },
     {
-        "Height (in cm)": "18034",
+        "Height (in cm)": 180,
         "Weight (in kg)": "69",
         "Age": "18",
         "Gender": "male",
@@ -612,7 +612,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "149",
+        "Height (in cm)": 149,
         "Weight (in kg)": "60",
         "Age": "20",
         "Gender": "female",
@@ -623,13 +623,13 @@
         "Working Profession": "na",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "saturday;sunday",
-        "Number of Previous treks?": "1015",
+        "Number of Previous treks?": "10",
         "If yes, List the treks separated by underscore (_)": "devkund_ sinhagad _ visapur_ tikona _raigad",
         "Preference of difficulty of trek": "intermediate",
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "79",
         "Age": "17",
         "Gender": "male",
@@ -646,7 +646,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "183",
+        "Height (in cm)": 183,
         "Weight (in kg)": "74",
         "Age": "18",
         "Gender": "male",
@@ -663,7 +663,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "54",
         "Age": "20",
         "Gender": "male",
@@ -680,7 +680,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "75",
         "Age": "19",
         "Gender": "male",
@@ -697,7 +697,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "66",
         "Age": "19",
         "Gender": "male",
@@ -714,7 +714,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "182",
+        "Height (in cm)": 182,
         "Weight (in kg)": "85",
         "Age": "18",
         "Gender": "male",
@@ -731,7 +731,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "178",
+        "Height (in cm)": 178,
         "Weight (in kg)": "75",
         "Age": "18",
         "Gender": "male",
@@ -742,13 +742,13 @@
         "Working Profession": "student",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "saturday;sunday",
-        "Number of Previous treks?": "45",
+        "Number of Previous treks?": "4",
         "If yes, List the treks separated by underscore (_)": "switzerland scotland sinhaghad manali",
         "Preference of difficulty of trek": "hard",
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "117",
+        "Height (in cm)": 117,
         "Weight (in kg)": "78",
         "Age": "18",
         "Gender": "male",
@@ -765,7 +765,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "58",
+        "Height (in cm)": 58,
         "Weight (in kg)": "78",
         "Age": "18",
         "Gender": "male",
@@ -782,7 +782,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "71",
         "Age": "19",
         "Gender": "male",
@@ -799,7 +799,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "160",
+        "Height (in cm)": 160,
         "Weight (in kg)": "58",
         "Age": "18",
         "Gender": "female",
@@ -816,7 +816,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "195",
+        "Height (in cm)": 195,
         "Weight (in kg)": "80",
         "Age": "20",
         "Gender": "male",
@@ -833,7 +833,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "1554",
+        "Height (in cm)": 155,
         "Weight (in kg)": "79",
         "Age": "20",
         "Gender": "male",
@@ -850,7 +850,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "165",
+        "Height (in cm)": 165,
         "Weight (in kg)": "42",
         "Age": "18",
         "Gender": "female",
@@ -867,7 +867,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "163",
+        "Height (in cm)": 163,
         "Weight (in kg)": "66",
         "Age": "19",
         "Gender": "male",
@@ -884,7 +884,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "182",
+        "Height (in cm)": 182,
         "Weight (in kg)": "84",
         "Age": "18",
         "Gender": "male",
@@ -895,13 +895,13 @@
         "Working Profession": "student",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "sunday",
-        "Number of Previous treks?": "56",
+        "Number of Previous treks?": "5",
         "If yes, List the treks separated by underscore (_)": "andharban jungle trek _ sinhagad trek _ torna fort _ devkund waterfalls _ tulian lake,kashmir _ ",
         "Preference of difficulty of trek": "intermediate",
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "177",
+        "Height (in cm)": 177,
         "Weight (in kg)": "75",
         "Age": "20",
         "Gender": "male",
@@ -918,7 +918,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "51",
         "Age": "19",
         "Gender": "male",
@@ -935,7 +935,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "55",
         "Age": "19",
         "Gender": "male",
@@ -946,13 +946,13 @@
         "Working Profession": "student ",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "saturday;sunday",
-        "Number of Previous treks?": "1012",
+        "Number of Previous treks?": "10",
         "If yes, List the treks separated by underscore (_)": "nan",
         "Preference of difficulty of trek": "intermediate",
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "64",
         "Age": "19",
         "Gender": "male",
@@ -969,7 +969,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "152",
+        "Height (in cm)": 152,
         "Weight (in kg)": "75",
         "Age": "18",
         "Gender": "female",
@@ -986,7 +986,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "152",
+        "Height (in cm)": 152,
         "Weight (in kg)": "60",
         "Age": "18",
         "Gender": "female",
@@ -1003,7 +1003,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "190",
+        "Height (in cm)": 190,
         "Weight (in kg)": "80",
         "Age": "17",
         "Gender": "male",
@@ -1020,7 +1020,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "85",
         "Age": "18",
         "Gender": "male",
@@ -1037,7 +1037,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "61",
         "Age": "19",
         "Gender": "male",
@@ -1054,8 +1054,8 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "170",
-        "Weight (in kg)": "573",
+        "Height (in cm)": 170,
+        "Weight (in kg)": "57",
         "Age": "18",
         "Gender": "male",
         "City": "pune",
@@ -1065,14 +1065,14 @@
         "Working Profession": "student",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "saturday;sunday",
-        "Number of Previous treks?": "810",
+        "Number of Previous treks?": "8",
         "If yes, List the treks separated by underscore (_)": "sinhgad_devkund_korigad_kataldhara_tamhinighat_ajantacaves_ellora_brahmagiri_harihargad_kundalikavallley_daulatabadfort",
         "Preference of difficulty of trek": "intermediate",
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "178",
-        "Weight (in kg)": "594",
+        "Height (in cm)": 178,
+        "Weight (in kg)": "59",
         "Age": "19",
         "Gender": "male",
         "City": "pune",
@@ -1088,7 +1088,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "165",
+        "Height (in cm)": 165,
         "Weight (in kg)": "60",
         "Age": "19",
         "Gender": "male",
@@ -1105,7 +1105,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "162",
+        "Height (in cm)": 162,
         "Weight (in kg)": "71",
         "Age": "20",
         "Gender": "female",
@@ -1122,7 +1122,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "172",
+        "Height (in cm)": 172,
         "Weight (in kg)": "66",
         "Age": "19",
         "Gender": "male",
@@ -1139,7 +1139,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "1737",
+        "Height (in cm)": 173,
         "Weight (in kg)": "50",
         "Age": "20",
         "Gender": "female",
@@ -1150,13 +1150,13 @@
         "Working Profession": "student",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "saturday;sunday",
-        "Number of Previous treks?": "34",
+        "Number of Previous treks?": "3",
         "If yes, List the treks separated by underscore (_)": "nan",
         "Preference of difficulty of trek": "intermediate",
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "192",
+        "Height (in cm)": 192,
         "Weight (in kg)": "90",
         "Age": "20",
         "Gender": "male",
@@ -1173,7 +1173,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "168",
+        "Height (in cm)": 168,
         "Weight (in kg)": "55",
         "Age": "21",
         "Gender": "male",
@@ -1190,7 +1190,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "165",
+        "Height (in cm)": 165,
         "Weight (in kg)": "78",
         "Age": "45",
         "Gender": "male",
@@ -1207,7 +1207,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "154",
+        "Height (in cm)": 154,
         "Weight (in kg)": "65",
         "Age": "48",
         "Gender": "female",
@@ -1224,7 +1224,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "80",
         "Age": "41",
         "Gender": "male",
@@ -1241,7 +1241,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "56",
+        "Height (in cm)": 56,
         "Weight (in kg)": "70",
         "Age": "39",
         "Gender": "female",
@@ -1252,13 +1252,13 @@
         "Working Profession": "business ",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "monday;tuesday;wednesday;thursday;friday;saturday;sunday",
-        "Number of Previous treks?": "89",
+        "Number of Previous treks?": "8",
         "If yes, List the treks separated by underscore (_)": "nan",
         "Preference of difficulty of trek": "intermediate",
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "164",
+        "Height (in cm)": 164,
         "Weight (in kg)": "78",
         "Age": "47",
         "Gender": "male",
@@ -1275,7 +1275,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "56",
+        "Height (in cm)": 56,
         "Weight (in kg)": "70",
         "Age": "48",
         "Gender": "female",
@@ -1292,7 +1292,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "165",
+        "Height (in cm)": 165,
         "Weight (in kg)": "53",
         "Age": "48",
         "Gender": "male",
@@ -1309,7 +1309,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "157",
+        "Height (in cm)": 157,
         "Weight (in kg)": "67",
         "Age": "47",
         "Gender": "female",
@@ -1326,7 +1326,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "152",
+        "Height (in cm)": 152,
         "Weight (in kg)": "83",
         "Age": "46",
         "Gender": "female",
@@ -1343,7 +1343,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "160",
+        "Height (in cm)": 160,
         "Weight (in kg)": "90",
         "Age": "39",
         "Gender": "male",
@@ -1360,7 +1360,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "177",
+        "Height (in cm)": 177,
         "Weight (in kg)": "83",
         "Age": "19",
         "Gender": "male",
@@ -1371,13 +1371,13 @@
         "Working Profession": "student ",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "saturday;sunday",
-        "Number of Previous treks?": "67",
+        "Number of Previous treks?": "6",
         "If yes, List the treks separated by underscore (_)": "nan",
         "Preference of difficulty of trek": "hard",
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "179",
+        "Height (in cm)": 179,
         "Weight (in kg)": "103",
         "Age": "20",
         "Gender": "male",
@@ -1394,7 +1394,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "179",
+        "Height (in cm)": 179,
         "Weight (in kg)": "73",
         "Age": "20",
         "Gender": "male",
@@ -1411,7 +1411,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "166",
+        "Height (in cm)": 166,
         "Weight (in kg)": "63",
         "Age": "47",
         "Gender": "male",
@@ -1428,7 +1428,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "166",
+        "Height (in cm)": 166,
         "Weight (in kg)": "77",
         "Age": "47",
         "Gender": "male",
@@ -1445,7 +1445,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "180",
+        "Height (in cm)": 180,
         "Weight (in kg)": "70",
         "Age": "21",
         "Gender": "male",
@@ -1456,13 +1456,13 @@
         "Working Profession": "student",
         "Have you gone trekking before?": "yes",
         "Preference of Trek Days (Select all that apply)": "saturday;sunday",
-        "Number of Previous treks?": "34",
+        "Number of Previous treks?": "3",
         "If yes, List the treks separated by underscore (_)": "torna, etc",
         "Preference of difficulty of trek": "intermediate",
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "178",
+        "Height (in cm)": 178,
         "Weight (in kg)": "74",
         "Age": "47",
         "Gender": "male",
@@ -1479,7 +1479,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "153",
+        "Height (in cm)": 153,
         "Weight (in kg)": "65",
         "Age": "39",
         "Gender": "female",
@@ -1496,7 +1496,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "170",
+        "Height (in cm)": 170,
         "Weight (in kg)": "74",
         "Age": "47",
         "Gender": "male",
@@ -1513,7 +1513,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "178",
+        "Height (in cm)": 178,
         "Weight (in kg)": "84",
         "Age": "59",
         "Gender": "male",
@@ -1530,7 +1530,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "56",
+        "Height (in cm)": 56,
         "Weight (in kg)": "80",
         "Age": "48",
         "Gender": "male",
@@ -1547,7 +1547,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "157",
+        "Height (in cm)": 157,
         "Weight (in kg)": "63",
         "Age": "48",
         "Gender": "female",
@@ -1564,7 +1564,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "16154",
+        "Height (in cm)": 161,
         "Weight (in kg)": "80",
         "Age": "47",
         "Gender": "female",
@@ -1581,7 +1581,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "168",
+        "Height (in cm)": 168,
         "Weight (in kg)": "55",
         "Age": "20",
         "Gender": "male",
@@ -1598,7 +1598,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "161",
+        "Height (in cm)": 161,
         "Weight (in kg)": "65",
         "Age": "47",
         "Gender": "female",
@@ -1615,7 +1615,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "156",
+        "Height (in cm)": 156,
         "Weight (in kg)": "70",
         "Age": "19",
         "Gender": "male",
@@ -1632,8 +1632,8 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "16510",
-        "Weight (in kg)": "625",
+        "Height (in cm)": 165,
+        "Weight (in kg)": "62",
         "Age": "20",
         "Gender": "female",
         "City": "jaipur rajasthan ",
@@ -1649,7 +1649,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "165",
+        "Height (in cm)": 165,
         "Weight (in kg)": "73",
         "Age": "47",
         "Gender": "male",
@@ -1666,7 +1666,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "174",
+        "Height (in cm)": 174,
         "Weight (in kg)": "67",
         "Age": "48",
         "Gender": "male",
@@ -1683,7 +1683,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "163",
+        "Height (in cm)": 163,
         "Weight (in kg)": "57",
         "Age": "44",
         "Gender": "female",
@@ -1700,7 +1700,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "18",
+        "Height (in cm)": 18,
         "Weight (in kg)": "90",
         "Age": "47",
         "Gender": "male",
@@ -1717,7 +1717,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "155",
+        "Height (in cm)": 155,
         "Weight (in kg)": "62",
         "Age": "49",
         "Gender": "female",
@@ -1734,7 +1734,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "16154",
+        "Height (in cm)": 161,
         "Weight (in kg)": "58",
         "Age": "47",
         "Gender": "female",
@@ -1751,7 +1751,7 @@
         "Food Preferences": "veg"
     },
     {
-        "Height (in cm)": "168",
+        "Height (in cm)": 168,
         "Weight (in kg)": "64",
         "Age": "20",
         "Gender": "male",
@@ -1768,7 +1768,7 @@
         "Food Preferences": "non-veg"
     },
     {
-        "Height (in cm)": "167",
+        "Height (in cm)": 167,
         "Weight (in kg)": "79",
         "Age": "47",
         "Gender": "female",
